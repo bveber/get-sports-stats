@@ -1,0 +1,1 @@
+An airflow pipeline for retrieving sports data using [pysports-stats](https://github.com/bveber/pysports-stats)
